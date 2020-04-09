@@ -1,0 +1,15 @@
+#documenation 
+
+'touch <file.name>' to create files
+
+'open <file.name>' to open files
+
+'git add <file.name>' to add 
+
+'git commit - "notes" ' to get ready to commit 
+
+'git status' to check status
+
+'git log' to look at log history
+
+'git push master origin' to push to github main tree
