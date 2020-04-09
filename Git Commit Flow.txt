@@ -1,0 +1,9 @@
+touch <file.name> #to create new files 
+
+git status #to get status
+
+git add <file.name> #to add files to staging
+
+git commit -m "note" #to get ready to be ready to commit
+
+git push origin master #to push to github
